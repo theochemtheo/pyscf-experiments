@@ -1,0 +1,5 @@
+pyscf
+black
+ipykernel
+pyberny
+matplotlib
